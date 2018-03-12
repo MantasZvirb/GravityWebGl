@@ -73,6 +73,7 @@ function RandInt(MinValue,MaxValue)
 }
 
 //Entry
+//TEEEEESTING
 //PhysicsObjectCreate([X,Y,Z],Radius,Mass,[SpeedX,SpeedY,SpeedZ],[R,G,B]);
 
 for(let i = 0; i < RandInt(400,500);i++)
